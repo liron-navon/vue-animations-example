@@ -75,7 +75,7 @@
         min-height: 100vh;
     }
 
-    // fancy text
+    /*fancy text*/
     .header {
         font-size: 12rem;
         padding: 0;

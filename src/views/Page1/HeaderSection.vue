@@ -198,7 +198,7 @@
         flex-direction: column;
     }
 
-    // the moving images
+    /*the moving images*/
     .image {
         position: absolute;
         left: 0;
@@ -230,7 +230,7 @@
     }
 
 
-    // the fancy text
+    /*the fancy text*/
     .header {
         font-size: 4rem;
         padding: 0;
